@@ -18,4 +18,5 @@ This demo collection features items from the [The Library of Congress](https://w
 The metadata was created in a CSV file. The styling was done by [me](https://edermansky.github.io/personal-site/index.html). 
 
 
-
+{% include cb/about_the_about.md %}
+{% include cb/feature_options.md %}
